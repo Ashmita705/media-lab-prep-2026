@@ -1,0 +1,12 @@
+# Design Insights - Day 1 (Jan 3, 2026)
+**The Design of Everyday Things - Ch1: Psychopathology (21 pages)**
+
+## Key Concepts Understood:
+1. **Norman Doors** - Confusing designs needing "PUSH/PULL" signs = design failure
+2. **Affordances** - Object signals what I CAN do (chair shape = sit)
+3. **Signifiers** - Object shows HOW to do it (handle = pull, plate = push)
+
+**Application**: My p5.js shapes = good discoverability (center placement = focal point)
+**Tomorrow**: Mouse interaction = perfect signifier example
+
+**Method**: NotebookLM summary → Core concepts extracted
