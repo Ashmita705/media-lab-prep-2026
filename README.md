@@ -43,3 +43,29 @@ This repository tracks my daily progress toward MIT Media Lab's Master of Applie
 - **Progress:** % complete
 
 **Day 1 Log:** Repo setup, folders created, plan pasted. Ready for p5.js sketches tomorrow.
+## Day 2 Progress (Jan 4, 2026)
+**Focus**: p5.js mouseX/mouseY + animation | Design Ch2 signifiers | GRE vocab/algebra  
+**Streak**: 2 days → Media Lab trajectory locked 🚀
+
+### p5.js Mouse + Animation Sketches (60-75 min)
+- [ ] Sketch 1: Animated circle follows mouseX/mouseY (`ellipse(mouseX, mouseY, 50+sin(frameCount*0.1)*20, 50)`)
+- [ ] Sketch 2: Growing/shrinking rect at mouse (`rect(mouseX, height/2, 50, abs(sin(frameCount*0.05))*100 + mouseY/2)`)
+- [ ] Bonus: Color changes with mouse position (`fill(map(mouseX,0,width,0,255), 100, map(mouseY,0,height,255,0))`)
+**Folder**: /sketches/Day2-Mouse1.md, Day2-Mouse2.md, Day2-Animated.md (URLs + screenshots + code)
+
+### Design Reading (30-45 min)
+- [ ] Ch2: 20 pages on signifiers (cues showing how to use objects)
+- Key Insights (4 bullets):
+  - 
+  - 
+  - 
+  - 
+**File**: /design-log/Day2-Notes.md
+
+### GRE Practice (20-30 min) 
+- [ ] 10 new vocab words (sustainable pace)
+- [ ] 10 ETS algebra questions + error log
+**File**: /gre-log/Day2.md
+
+**End of Day**: Day 2 complete! Mouse interactivity + animation = Media Lab portfolio foundation. Day 3 preview: mousePressed() + Design Ch3.
+
