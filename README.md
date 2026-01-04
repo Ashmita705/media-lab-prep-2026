@@ -69,3 +69,11 @@ This repository tracks my daily progress toward MIT Media Lab's Master of Applie
 
 **End of Day**: Day 2 complete! Mouse interactivity + animation = Media Lab portfolio foundation. Day 3 preview: mousePressed() + Design Ch3.
 
+## Day 2 COMPLETE (Jan 4, 2026) 
+**Technical**: mouseX/mouseY + auto-animation mastery  
+**Design**: Ch2 psychology + 7 principles  
+**GRE**: 10 vocab + formulas + 6 algebra topics (exceeded target)  
+**Streak**: 2/365 → Media Lab trajectory LOCKED 🚀
+
+**Day 3 Preview**: mousePressed() clicks + Design Ch3
+
