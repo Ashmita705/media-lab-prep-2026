@@ -77,3 +77,12 @@ This repository tracks my daily progress toward MIT Media Lab's Master of Applie
 
 **Day 3 Preview**: mousePressed() clicks + Design Ch3
 
+## Day 3: 100% COMPLETE - Streak 3/365 🚀
+**Date**: Jan 5, 2026  
+**GRE**: 12 algebra problems + geometry (lines/polygons/angles) + 10 high-frequency vocab + review  
+**p5.js**: mousePressed() array persistence + random() rectangle size variation  
+**Design**: Ch3 "Knowledge in Head vs World" - masterful summary with p5.js connections  
+**Technical note**: Code understood + implemented (video review Day 4 AM)  
+**Total time**: ~3hrs across morning/evening sessions
+
+
