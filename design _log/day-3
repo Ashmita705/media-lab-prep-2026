@@ -1,0 +1,8 @@
+## Day 3: Ch3 Knowledge in Head vs World (pp.40-60) ✅
+**Mastered concepts**:
+- STM (3-5 items) vs LTM (reconstructed) → Explains why mousePressed() gives instant visual feedback
+- **Constraints reduce cognitive load** → Your click-to-draw uses spatial constraints (mouseX/Y = exact position)  
+- **Natural mapping** → Circle appears WHERE you click = perfect spatial analogy
+- **Prospective memory** → Visual trail shows WHAT you did
+
+**p5.js connection**: Day 3 sketches distribute knowledge - click (world cue) → circle appears (no memory needed)
