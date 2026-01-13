@@ -85,4 +85,10 @@ This repository tracks my daily progress toward MIT Media Lab's Master of Applie
 **Technical note**: Code understood + implemented (video review Day 4 AM)  
 **Total time**: ~3hrs across morning/evening sessions
 
+# p5.js: random(), map(), graphics, conditionals, loops, mouse events (Jan 14, 2026)
+
+**Status**: ✅ Wed Jan 14 COMPLETE
+
+## **Today's Technical Coverage**
+
 
