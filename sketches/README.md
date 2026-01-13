@@ -33,3 +33,19 @@ function draw() {
   x = x + speed;
   if (x > width) x = 0;
 }
+
+# Day 4 - p5.js Sketches
+
+**7 Interactive Animations** exploring conditionals, collision detection, and mouse interaction.
+
+**Controls:** Mouse movement, clicks (check each sketch)
+
+**Screenshots:**  
+`day-4-[1-7]-code.png` & `day-4-[1-7]-output.png`
+
+**Concepts Covered:**
+- Bouncing rectangle (4-wall collision)
+- Mouse tracking  
+- Color mapping
+- if/else if/else logic
+- AND (&&) / OR (||) operators
