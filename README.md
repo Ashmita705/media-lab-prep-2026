@@ -101,19 +101,14 @@ This repository tracks my daily progress toward MIT Media Lab's Master of Applie
 ✅ Design: Norman Ch4 "Constraints + Discoverability"
 ✅ Vocab: Revision before sleep
 
-text
-
 ## **Norman Ch4 Key Concepts**
 📌 4 Constraints: Physical/Cultural/Semantic/Logical
 📌 Forcing Functions: Interlocks/Lock-ins/Lockouts
 📌 Signifiers: Sound feedback (EV alerts)
 📌 Faucets: Mapping failures case study
 
-text
-
 ## **Sketches**
 ![Day10 Functions](/sketches/Day10-Functions.png)
 
 **Portfolio**: Technical mastery + academic rigor + design thinking
-Final Commands → Sleep
 
