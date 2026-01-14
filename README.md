@@ -91,4 +91,29 @@ This repository tracks my daily progress toward MIT Media Lab's Master of Applie
 
 ## **Today's Technical Coverage**
 
+# p5.js Functions + GRE Algebra + Design + Vocab (Thu Jan 15, 2026)
+
+**Status**: ✅ Thu Jan 15 1:17AM COMPLETE
+
+## **Today's Complete Coverage**
+✅ Coding Train 5.1-5.3: Functions (parameters/return)
+✅ GRE Algebra: 5 questions + formula review
+✅ Design: Norman Ch4 "Constraints + Discoverability"
+✅ Vocab: Revision before sleep
+
+text
+
+## **Norman Ch4 Key Concepts**
+📌 4 Constraints: Physical/Cultural/Semantic/Logical
+📌 Forcing Functions: Interlocks/Lock-ins/Lockouts
+📌 Signifiers: Sound feedback (EV alerts)
+📌 Faucets: Mapping failures case study
+
+text
+
+## **Sketches**
+![Day10 Functions](/sketches/Day10-Functions.png)
+
+**Portfolio**: Technical mastery + academic rigor + design thinking
+Final Commands → Sleep
 
