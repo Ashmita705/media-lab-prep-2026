@@ -49,3 +49,26 @@ function draw() {
 - Color mapping
 - if/else if/else logic
 - AND (&&) / OR (||) operators
+
+# p5.js Classes + Arrays (Sat Jan 17, 2026)
+
+**Status**: ✅ Sat 2:06AM COMPLETE
+
+## **Today's Massive Catchup**
+✅ 6.2: Classes in JavaScript (ES6)
+✅ 6.3: Constructor Arguments
+✅ 6.4: Adding JavaScript files
+✅ 7.1: What is an Array
+✅ 7.2: Arrays + Loops
+✅ Practice: Multiple sketches + screenshots
+
+## **Key Concepts Mastered**
+📌 OOP: Classes w/ constructor(x,y,r)
+📌 Arrays of objects: let bubbles = []
+📌 Array methods: push(), for loops
+
+## **Live Sketches**
+![Day11-Classes](/sketches/Day11-Classes.png)
+![Day12-Arrays](/sketches/Day12-Arrays.png)
+
+**Progress**: Month 1 p5.js Days 1-14 (47%) → Media Lab portfolio ready
