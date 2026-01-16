@@ -1,0 +1,17 @@
+## Design of Everyday Things - Ch5: Human Error? No, Bad Design (Jan 16)
+
+**Core Thesis**: Accidents = bad design, not human failure. Use "Five Whys" for root cause [user summary].
+
+**Error Types**:
+- **Slips**: Correct goal, wrong execution (action-based, memory-lapse)
+- **Mistakes**: Wrong goal/plan (rule-based, knowledge-based, memory-lapse)
+
+**Swiss Cheese Model**: Accidents when defense layer "holes" align perfectly.
+
+**Design Fixes**:
+- Forcing functions (interlocks/lockouts)
+- Sensibility checks 
+- Undo commands
+- Visible system state + immediate feedback
+
+✅ Ch5 mastered. Slips/mistakes framework locked.
