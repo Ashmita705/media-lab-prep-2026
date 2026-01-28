@@ -72,3 +72,13 @@ function draw() {
 ![Day12-Arrays](/sketches/Day12-Arrays.png)
 
 **Progress**: Month 1 p5.js Days 1-14 (47%) → Media Lab portfolio ready
+## Jan 29, 2026 - p5.js Lectures 3-4 ✅
+
+**Arrays & Loops Practice**
+- **Arrays**: 1 bubble moving across screen
+- **for...of loop**: 3 bubbles moving diagonally across screen
+
+**Progress**: Clean array iteration + bubble motion working
+**Techolution Skill**: Array handling + loops (coding round basics)
+
+
