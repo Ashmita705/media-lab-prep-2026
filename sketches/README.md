@@ -79,6 +79,17 @@ function draw() {
 - **for...of loop**: 3 bubbles moving diagonally across screen
 
 **Progress**: Clean array iteration + bubble motion working
-**Techolution Skill**: Array handling + loops (coding round basics)
+# Mouse-Controlled Bubble
+
+**What it does**: Single bubble moves across screen with basic mouse interaction
+
+**Features**:
+- Array fundamentals practiced
+- MouseX/MouseY position tracking
+- Smooth bubble motion
+
+**Tech Stack**: p5.js
+**Status**: Lecture 3 complete ✅
+
 
 
