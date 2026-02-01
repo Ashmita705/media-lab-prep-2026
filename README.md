@@ -111,4 +111,13 @@ This repository tracks my daily progress toward MIT Media Lab's Master of Applie
 ![Day10 Functions](/sketches/Day10-Functions.png)
 
 **Portfolio**: Technical mastery + academic rigor + design thinking
+## Feb 1, 2026 - p5.js Foundation COMPLETE ✅
+
+**8/8 Lectures Done** (image loading tomorrow AM)
+- Arrays, for...of loops, mouse interaction, OOP classes
+- Sketches: Single bubble, 3-bubble diagonal, mouse controls
+- **Techolution Skills**: Array manipulation, clean iteration, event handling
+
+**Next**: Feb 2 - Day/Night House major project (Man + state logic)
+
 
