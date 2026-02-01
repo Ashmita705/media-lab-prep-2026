@@ -90,6 +90,17 @@ function draw() {
 
 **Tech Stack**: p5.js
 **Status**: Lecture 3 complete ✅
+# p5.js Lecture Sketches
+**Techolution Coding Round Foundation**
+
+## Completed Sketches
+- `mouseBubble/` - Single bubble + mouse interaction
+- `diagonalBubbles/` - 3 bubbles array with for...of loop
+- `[others]/` - Full OOP classes practiced
+
+**Status**: Lectures 1-7 complete, 7.8 (images) → Feb 2 AM
+**Portfolio Ready**: Clean, documented, Git-committed
+
 
 
 
