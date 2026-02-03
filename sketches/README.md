@@ -100,6 +100,33 @@ function draw() {
 
 **Status**: Lectures 1-7 complete, 7.8 (images) → Feb 2 AM
 **Portfolio Ready**: Clean, documented, Git-committed
+# Day 9 - Image Loading & Display ✅
+
+**What it does**: Loads and displays external images in p5.js canvas
+
+**Key Features**:
+- `preload()` for image loading
+- `loadImage()` syntax mastered
+- `image(img, x, y, w, h)` positioning
+- Image scaling + canvas integration
+
+**Tech Stack**: p5.js imageMode()
+**Status**: Lecture 7.8 complete
+**Techolution Skill**: Asset management + async loading
+
+**Demo**: [Insert screenshot/video]
+ #day-10
+# Portfolio Project #1 - Interactive Day/Night House 🌞🌙
+
+**What it does**: Mouse-controlled man triggers full environment state change
+
+**Core Features**:
+- **3 OOP Classes**: House, Man, Environment (stars/clouds)
+- **State Management**: Man position → day/night boolean
+- **Visual Effects**: Sky lerpColor(), twinkling stars array, drifting clouds
+- **Interactivity**: MouseX controls man → environment responds
+
+**Day/Night Logic**:
 
 
 
