@@ -119,5 +119,24 @@ This repository tracks my daily progress toward MIT Media Lab's Master of Applie
 - **Techolution Skills**: Array manipulation, clean iteration, event handling
 
 **Next**: Feb 2 - Day/Night House major project (Man + state logic)
+# Feb 3, 2026 - p5.js Mastery + MAJOR PROJECT #1 ✅
+
+**4hr Productive Day Complete** - House project locked, GRE maintained
+
+## Technical Portfolio Deliverables
+
+## Day/Night House - Technical Showcase 🌞🌙
+| Day Mode ☁️ | Night Mode ⭐ |
+|-------------|--------------|
+| ![Day State](screenshots/day_clouds.png) | ![Night State](screenshots/night_stars.png) |
+
+**Engineering Features**:
+- **3 OOP Classes**: House, Man, Environment state manager
+- **State Logic**: `man.x > house.x ? 'day' : 'night'`
+- **Visual Systems**: `lerpColor()` sky + `for...of` stars/clouds
+- **250+ lines** production code
+
+## GRE Progress (30min)
+
 
 
