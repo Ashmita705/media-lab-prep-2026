@@ -138,5 +138,24 @@ This repository tracks my daily progress toward MIT Media Lab's Master of Applie
 
 ## GRE Progress (30min)
 
+# Major #2: Neural Network Forward Propagation
+
+## Theory Mastered
+- Single vs multi-layer neural networks
+- Forward prop: `Z^1 = W^1·X + b^1 → A^1 = activation(Z^1)`
+- MNIST: 28×28=784 inputs → 30 hidden → 10 output classes
+- **Key Insight**: No activation = linear regression
+
+## Working Code
+```python
+inputs = [1.3, 2.4, 3.5]
+weights = [5.6, 7.8, 9.2]
+bias = 3
+output = 60.39  # Z^1 ✓
+## GRE Vocab review
+## GRE Formulas review
+
+
+
 
 
